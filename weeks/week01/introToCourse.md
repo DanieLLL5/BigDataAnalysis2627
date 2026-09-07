@@ -21,15 +21,15 @@ paginate: true
 
 ## Schedule and Plan
 
-- Two labs per week, on Wednesdays and Thursdays, 1.5 hours each.
-  - Parallel to the theoretical classes
-- Labs will start on time and conclude ten minutes early.
+- Two labs per week, on Monday, Tuesday, Thurday and Fridy (depending on your shift), 1.5 hours each.
+  - Parallel to the theoretical classes.
+- Labs will start on time and conclude fifteen minutes early.
 - Each week we go over a new element of BDA, and learn how to implement and use them. 
 
 ---
 ## Tools
 - Python 3.10 or above. 
-- Google Colab. 
+- Google Colab or Visual Studio code.
 - Databricks. 
 - MongoDB. 
 - A working computer/laptop. 
@@ -37,7 +37,7 @@ paginate: true
 
 ## GitHub
 
-- The GitHub repository for this course can be found at https://github.com/dhruv-pandit/bigDataLabsIMS25_26. Here, we will upload the notebooks for the weeks early, along with resources for the course and materials for the project. 
+- The GitHub repository for this course can be found at https://github.com/DanieLLL5/BigDataAnalysis2627. Here, we will upload the notebooks for the weeks early, along with resources for the course and materials for the project. 
 - Most important- **we will only upload solutions to this repository.  Notebooks and datasets required for the labs will still be uploaded to the course Moodle.**
 ---
 
