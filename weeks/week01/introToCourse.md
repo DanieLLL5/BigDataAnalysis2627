@@ -12,10 +12,10 @@ paginate: true
 
 ## Instructors
 
-| Instructor          |             | Email                     |
-|----------------------|------------------|---------------------------|
-| Niclas F. Sturm      | ![alt text](image-1.png) | nsturm@novaims.unl.pt     |
-| Dhruv Akshay Pandit  | ![alt text](image-2.png) | dpandit@novaims.unl.pt    |
+| Instructor              |                          | Email                       |
+|-------------------------|--------------------------|-----------------------------|
+| Alexandre Hermenegildo  | ![alt text](image-1.jpeg)| ahermenegildo@novaims.unl.pt|
+| Daniel Caridade         | ![alt text](image-2.png) | dcaridade@novaims.unl.pt    |
 
 ---
 
