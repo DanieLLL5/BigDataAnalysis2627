@@ -2,8 +2,8 @@
 
 Welcome to the official GitHub repository for the Big Data Analytics course labs. This course introduces core concepts and tools for working with large-scale data, with a strong hands-on component. All the course related files for each weeks labs, along with any material related to the project can be found on this repository. **Importantly, solutions for each week will only be uploaded to the repository.** 
 
-- 👨‍🏫 Instructor: Dhruv Akshay Pandit and Niclas Sturm
-- 📅 Semester: Fall 2025  
+- 👨‍🏫 Instructor: Afonso Hermenegildo and Daniel Caridade
+- 📅 Semester: Fall 2026  
 
 ---
 
