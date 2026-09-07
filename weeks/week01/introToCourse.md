@@ -15,7 +15,7 @@ paginate: true
 | Instructor              |                          | Email                       |
 |-------------------------|--------------------------|-----------------------------|
 | Alexandre Hermenegildo  | ![alt text](image-1.jpeg)| ahermenegildo@novaims.unl.pt|
-| Daniel Caridade         | ![alt text](image-2.jpeg) | dcaridade@novaims.unl.pt   |
+| Daniel Caridade         | ![alt text](image-2.jpg) | dcaridade@novaims.unl.pt   |
 
 ---
 
