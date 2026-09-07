@@ -2,4 +2,5 @@
 .venv
 weeks/.DS_Store
 weeks/week01/bash/.DS_Store
+weeks/week01/large_data_lab
 weeks/week02/.DS_Store
